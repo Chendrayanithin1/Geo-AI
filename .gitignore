@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+
+earth_intelligence.index
+chunks.pkl
+
+geoBoundaries-IND-ADM3-all/
+*.geojson
